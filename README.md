@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-03-02-n8n-GCP-무료-호스팅-사용법](n8n/2026-03-02-n8n-GCP-무료-호스팅-사용법.md)
+
 - [2026-03-02-n8n-첫번째-워크플로우-자동화](n8n/2026-03-02-n8n-첫번째-워크플로우-자동화.md)
 
 - [2026-03-02-n8n을-이용한-TIL-자동화-및-GitHub-업로드](n8n/2026-03-02-n8n을-이용한-TIL-자동화-및-GitHub-업로드.md)
